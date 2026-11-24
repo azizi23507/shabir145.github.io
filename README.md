@@ -1,4 +1,4 @@
-# Organize Tool for searching
+# Organize Tool for files and directories
 
 Effortlessly organize your files in directories.
 
