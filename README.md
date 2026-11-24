@@ -48,7 +48,7 @@ Run CMD as administrator and run the below command.
 
 Note: path/to/directory for both Windows and Linux is the absolute path for the organize executable file where you extract. 
 
-## Instructions 📚
+## Instructions for the appliciton
 
 To use the Organize Tool, follow these simple steps:
 
@@ -115,7 +115,7 @@ This will move `.pdf` files starting with "a" into a `pdf_files_with_a_initial` 
 ### 5. Automatically Clean Up Empty Directories
 After organizing your files, the tool will automatically remove any empty directories left behind in the process, ensuring a clutter-free workspace.
 
-## About the Creator 👤
+## About the Creator of the appliciton
 
 Created by **Azizi Abdul Aziz Student at DIT, BCs. Health Informatics**. View the project (https://shabir145.github.io/).
 
