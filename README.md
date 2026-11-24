@@ -24,14 +24,14 @@ The Organize Tool scans a directory, identifies files by their extensions and op
 - Any empty directories are automatically removed after the files are organized.
 
 
-## Download 📦
+## Download the Application
 
 Select your platform to download:
 
 - **Linux** 
 - **Windows** 
 
-## Setup Instructions 🛠️
+## Setup Instructions for the Appliction
  Add the tool to your system PATH
 ### For Linux:
 Run the bellow command in your Linux terminal.
