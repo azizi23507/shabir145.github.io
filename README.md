@@ -1,12 +1,11 @@
-# Organize Tool for files and directories
-
+# Organize Tool for files and directories for Linux, Windows and MacOS
 Effortlessly organize your files in directories.
 
-## About 🛠️
+## About the application
 
 The Organize Tool helps you efficiently manage and sort files in your directories. It categorizes files into folders based on their file extensions and can further organize them by the initial letter of the file name. The tool creates descriptive folders like ```pdf_files_with_a_initial```  for PDF files starting with the letter "a" and ```txt_files_with_b_initial``` for TXT files starting with the letter "b". It also automatically cleans up any empty directories after organizing your files, keeping your file structure clean and clutter-free.
 
-## Benefits ✨
+## Benefits of the application 
 
 - ⏳ **Time-Saving**: Automatically sorts files by extension and initial, saving you time on manual organization.
 - 📁 **Enhanced Organization**: Creates organized directories based on file types and file name initials (e.g., ```pdf_files_with_a_initial```), giving you a more structured file system.
@@ -14,7 +13,7 @@ The Organize Tool helps you efficiently manage and sort files in your directorie
 - 🖥️ **Cross-Platform**: Supports both Linux and Windows environments, making it versatile for different operating systems.
 - 👍 **Ease of Use**: Simple setup and intuitive operation, allowing you to quickly organize your files with minimal effort.
 
-## How It Works 🔧
+## How the application Works 
 
 The Organize Tool scans a directory, identifies files by their extensions and optionally by the initial letter of the file name, and moves them into corresponding subdirectories. The tool creates descriptive folders for better organization. For example:
 
@@ -25,14 +24,14 @@ The Organize Tool scans a directory, identifies files by their extensions and op
 - Any empty directories are automatically removed after the files are organized.
 
 
-## Download 📦
+## Download the Application
 
 Select your platform to download:
 
 - **Linux** 
 - **Windows** 
 
-## Setup Instructions 🛠️
+## Setup Instructions for the Appliction
  Add the tool to your system PATH
 ### For Linux:
 Run the bellow command in your Linux terminal.
@@ -49,7 +48,7 @@ Run CMD as administrator and run the below command.
 
 Note: path/to/directory for both Windows and Linux is the absolute path for the organize executable file where you extract. 
 
-## Instructions 📚
+## Instructions for the appliciton
 
 To use the Organize Tool, follow these simple steps:
 
@@ -116,7 +115,7 @@ This will move `.pdf` files starting with "a" into a `pdf_files_with_a_initial` 
 ### 5. Automatically Clean Up Empty Directories
 After organizing your files, the tool will automatically remove any empty directories left behind in the process, ensuring a clutter-free workspace.
 
-## About the Creator 👤
+## About the Creator of the appliciton
 
 Created by **Azizi Abdul Aziz Student at DIT, BCs. Health Informatics**. View the project (https://shabir145.github.io/).
 
